@@ -2,7 +2,7 @@
 
 🌱 *About myself*<br>
 
-✔️ I am *Harsh Sharma, currently pursuing my bachelors from Delhi Technological University(DTU) in *Computer Science & Engineering. <br>
+✔️ I am **Harsh Sharma**, currently pursuing my bachelors from Delhi Technological University(DTU) in **Computer Science & Engineering**. <br>
 
 ✔️ I am interested in  development, teaching, cinematography, content creation,  and have contributed to some of the open-source organisations . I also enjoy doing competitive programming. <br>
 
@@ -12,7 +12,7 @@
 
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Harsh Sharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-sharma-607bb8180/)](https://www.linkedin.com/in/harsh-sharma-607bb8180/) 
+[![Linkedin Badge](https://img.shields.io/badge/-HarshSharma-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harsh-sharma-607bb8180/)](https://www.linkedin.com/in/harsh-sharma-607bb8180/) 
 [![Gmail Badge](https://img.shields.io/badge/-harshsharma15698@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:harshsharma15698@gmail.com)](mailto:harshsharma15698@gmail.com)
 
 <hr>
